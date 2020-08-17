@@ -1,0 +1,21 @@
+ .workpart{
+    
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom:50px;
+    
+    color:#333333;
+}.test{
+	background-color:#EEEEEE;
+	color:#333;
+	text-align:center;
+	font-weight:400;
+	border:2px solid #EEEEEE;
+
+}.carousel-initialized {
+	overflow:visible !important;
+
+}.carousel-track {
+	height: fit-content !important;
+	
+}

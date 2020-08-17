@@ -1,0 +1,37 @@
+.contact_heading{
+	text-align:center;
+}.contact_colorheading{
+	color: rgb(229, 61, 117);
+	text-align:center;
+	font-family: 'Parisienne', cursive;
+	font-style:italic;
+}.box{
+	display: flex;
+}.item1{
+   margin-left:200px;
+    margin-top: 50px;
+    color:#757575;
+}.item2{
+	 margin-top: 50px;
+	 color:#757575;
+	 margin-left:100px;
+}.item3{
+	 margin-top: 50px;
+	 color:#757575;
+	 margin-left:100px;
+}.contact_head{
+	
+    color: rgb(0,0,0);
+
+}.form_heading{
+	text-align:center;
+	margin-top:70px;
+}.form{
+	display: flex;
+    flex-direction: column;
+ 
+    width: 50%;
+    margin-left: 350px;
+    margin-top: 50px;
+    margin-bottom:50px;
+}

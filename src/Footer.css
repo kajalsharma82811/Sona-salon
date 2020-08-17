@@ -1,0 +1,22 @@
+.footer{
+	text-align:center;
+	border:2px solid black;
+	margin-top:60px;
+	color:white;
+	background-color:black;
+	height:150px;
+	padding-top:20px;
+	font-size:13px;
+
+}.time{
+	color:#999999;
+	font-size:13px;
+	margin-top:-8px
+}.sona{
+	color:rgb(229, 61, 117);
+}.cl{
+	font-size:50px;
+	color:rgb(229, 61, 117);
+
+
+}
